@@ -1,5 +1,5 @@
 FROM corbinu/docker-phpmyadmin
-MAINTAINER Corbin Uselton corbin@openswimsoftware.com
+MAINTAINER Efrain Duarte efraduarte@gmail.com
 
 ENV PMA_SECRET          blowfish_secret
 ENV PMA_USERNAME        pma
